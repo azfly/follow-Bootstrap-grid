@@ -7,6 +7,10 @@
 ```
 .row:after{clear:both;display:block;content:''}
 ```
+或者用下边的方法，在row加样式
+```
+overflow: hidden;
+```
 ### HTML代码
 ```
 <!DOCTYPE html>
